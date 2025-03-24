@@ -33,7 +33,7 @@ Please organize the data according to the following structure. We provide the in
 ```
 
 ## Running Surface Reconstruction
-To train and test on 3DScene run 
+To train and test on 3D scene run 
 
     cd ./surface_reconstruction
     ./scripts/run_3dscene_recon.sh
