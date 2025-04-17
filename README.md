@@ -1,6 +1,7 @@
 <p align="center">
 
   <h1 align="center">Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds</h1>
+  <h2 align="center">TPAMI 2025</h2>
   <h3 align="center"><a href="https://arxiv.org/pdf/2410.18477">Paper</a> | <a href="https://chuanxiang-yang.github.io/S2DF/">Project Page</a> | <a href="https://arxiv.org/abs/2410.18477">arXiv</a> </h3>
   <div align="center"></div>
 </p>
