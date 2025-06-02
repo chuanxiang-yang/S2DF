@@ -48,10 +48,17 @@ Thanks to the [DiGS codebase](https://github.com/Chumbyte/DiGS), [StEik codebase
 ## Citation
 If you find our work useful in your research, please cite our paper:
 
-    @article{yang2024monge,
-         author = {Yang, Chuanxiang and Zhou, Yuanfeng and Wei, Guangshun and Ma, Long and Hou, Junhui and Liu, Yuan and Wang, Wenping},
-         title = {Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds},
-         journal = {arXiv preprint arXiv:2410.18477},
-         year = {2024},
+    @ARTICLE{yang2025monge,
+        author={Yang, Chuanxiang and Zhou, Yuanfeng and Wei, Guangshun and Ma, Long and Hou, Junhui and Liu, Yuan and Wang, Wenping},
+        journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+        title={Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds}, 
+        year={2025},
+        volume={},
+        number={},
+        pages={1-15},
+        keywords={Surface reconstruction;Point cloud compression;Shape;Neural networks;Training;Mathematical models;Three-dimensional displays;Decoding;Topology;Surface fitting;Implicit neural representation;distance function;surface reconstruction},
+        doi={10.1109/TPAMI.2025.3563601}
     }
+
+    
         
